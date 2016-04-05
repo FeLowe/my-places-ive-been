@@ -1,0 +1,12 @@
+#show-places-and-aspects {
+  display: none;
+}
+
+.new-place{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.new-place:hover {
+  text-decoration: underline;
+}
